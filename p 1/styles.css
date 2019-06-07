@@ -1,0 +1,57 @@
+/* add your CSS here */
+
+
+#main-div {
+	width: 320px;
+	margin: 19px;
+	border: solid gray 1px;
+	padding: 3px;
+	
+}
+/* animals name */
+
+#name{
+	padding: 4px;
+	font-size: 35px;
+	color: black;
+	
+}
+
+/* img */
+img{
+
+	padding-bottom: 4px;
+	padding-left: 9px;
+	width: 300px;
+	height: 200px;
+
+
+} 
+
+/* INFO DIV */ 
+#info{
+	border: solid 1px gray ;
+	padding: 4px;
+}
+/*animal's interesting fact*/
+ .p1 {
+ 	padding:5px;
+ 	
+ }
+
+/*favorite animal's list items*/
+ul li {
+ display:block;
+ font-size: 17px;
+ 
+
+}
+
+
+/*favorite animal's description*/
+#p2{
+	padding: 9px;
+}
+
+
+
